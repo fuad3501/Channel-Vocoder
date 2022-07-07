@@ -12,6 +12,6 @@ encoding: ```gcc -Wall -O3 -o encoder encoder.c -lfftw3 -lm ```
 decoding: ```gcc -Wall -O3 -o decoder decoder.c -lfftw3 -lm ```
 to compile the codec files. 
 
-This was compiled on a linux GNU OS using the GCC compiler with FFTW3 installed.
+This was compiled on a Linux GNU OS using the GCC compiler with FFTW3 library.
 
 
